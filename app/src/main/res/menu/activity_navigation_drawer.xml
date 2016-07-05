@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/anasayfa"
+            android:icon="@drawable/home"
+            android:title="Anasayfa"
+            />
+        <item
+            android:id="@+id/duyurular"
+            android:icon="@drawable/duyuru"
+            android:title="Duyurular" />
+        <item
+            android:id="@+id/dersprogrami"
+            android:icon="@drawable/takvim"
+            android:title="Ders Programı" />
+        <item
+            android:id="@+id/sinavprogrami"
+            android:icon="@drawable/sinav"
+            android:title="Sınav Programı" />
+        <item
+            android:id="@+id/akademikpersonel"
+            android:icon="@drawable/akademik"
+            android:title="Akademik Personel" />
+        <item
+            android:id="@+id/akademiktakvim"
+            android:icon="@drawable/takvim"
+            android:title="Akademik Takvim" />
+        <item
+            android:id="@+id/album"
+            android:icon="@drawable/album"
+            android:title="Albüm" />
+        <item
+            android:id="@+id/hakkinda"
+            android:icon="@drawable/hakkinda"
+            android:title="Bölüm Hakkında" />
+        <item
+            android:id="@+id/iletisim"
+            android:icon="@drawable/iletisim"
+            android:title="İletişim" />
+    </group>
+
+
+
+
+
+</menu>
